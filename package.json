@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "Dara Dolan",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.5",
+    "gulp-util": "~2.2.19"
+  }
 }
